@@ -1,17 +1,18 @@
 ## Hi there - I'm Ewan 👋
 
-<img width="300" height="121" alt="image" src="https://github.com/user-attachments/assets/def42d53-06dc-413e-a745-e8aeab4990b9" />
+<img width="300" height="105" alt="image" src="https://github.com/user-attachments/assets/def42d53-06dc-413e-a745-e8aeab4990b9" />
 
-year 2 student at the University Of Bristol
 
-## 🚀 Currently working on 
+MEng student at the University Of Bristol
+
+<!-- ## 🚀 Currently working on --> 
+
+## 🛰️ Project highlights
 
 #### Secondhand Marketplace 
 A group project to create a toy secondhand marketplace - we are focusing on sleek design elements as well as duolinguo-esque gamification elements.
 
 Tech Stack: Flutter, Flask, Docker, Supabase on an AWS EC2 deployment
-
-## 🛰️ Project highlights
 
 #### NavSat
 A Hackathon project creating an interactive map of our planet, 
